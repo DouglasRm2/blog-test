@@ -1,0 +1,16 @@
+.menu__title__container{
+    color: #ffffff;
+        
+}
+.menu__title__container h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+    font-size: 110px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu__title__container hr{
+    margin: 15px;
+}

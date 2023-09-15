@@ -1,0 +1,26 @@
+.container__small__card{
+
+    margin: 10px 0px 0px 40px;
+ }
+ .container_small__card__content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+ }
+ .title__card__small h1{
+     margin: 10px 0px 15px 0px;
+     font-size: 13px;
+ }
+ 
+ .small__card__descrision  p a{
+     color: rgb(97, 97, 104);
+ }
+ .small__card__img img{
+     width: 230px;
+   height: 125px;
+    margin: 10px 20px 0px 10px;
+ }
+ .divisao{
+   margin: 4px 0px 0px 0px ;
+ }
