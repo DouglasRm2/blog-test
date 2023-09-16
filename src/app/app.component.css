@@ -1,0 +1,18 @@
+.articles{
+
+    margin: 10px 0px 15px 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.emphasis_others{
+    margin: 30px 0px 0px 0px; 
+}
+
+header{
+    margin: 25px 0px 0px 0px;
+
+    display: flex;
+    justify-content: center;
+}

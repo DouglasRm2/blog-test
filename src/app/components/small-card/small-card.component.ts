@@ -12,7 +12,8 @@ photoCover:string =""
 @Input()
 cardtitle:string =""
 
-
+@Input()
+Id:string="1"
 constructor(){
 
 }
